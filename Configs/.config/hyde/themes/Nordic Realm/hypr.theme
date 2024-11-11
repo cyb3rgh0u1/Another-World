@@ -1,6 +1,6 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
-$GTK_THEME=Desert-GTK
+$GTK_THEME=Flight-Dark-GTK
 $ICON_THEME=Desert-Dark-Icons
 #$CURSOR_THEME=
 $COLOR_SCHEME=prefer-dark
