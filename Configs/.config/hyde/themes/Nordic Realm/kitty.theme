@@ -1,6 +1,6 @@
 $HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
 
-background            #3f495d
+background            #13131d
 foreground            #eceffd
 cursor                #fdcd5e
 selection_background  #fcf6e8
