@@ -15,20 +15,18 @@
 ![t4](./screenshots/ss_5.png)
 
 
-## Installation
 
+## Installation
 ```sh
 Hyde theme import "Another World" https://github.com/cyb3rgh0u1/Another-World
 ```
-
 or 
 
 ```sh
 Hyde theme import
 ```
-
-and from there choose `Another World`
+and choose Another World
 
 ---
 
-or install another theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
+or install theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
