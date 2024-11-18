@@ -22,7 +22,7 @@ general {
 }
 
 decoration {
-    rounding = 3
+    rounding = 2
     drop_shadow = false
 
     blur {
