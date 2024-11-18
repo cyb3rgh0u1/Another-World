@@ -1,11 +1,11 @@
 $HOME/.config/rofi/theme.rasi
 * {
-    main-bg:            #476A84E6;
-    main-fg:            #D9D9D9FF;
-    main-br:            #A6A6A6FF;
-    main-ex:            #595959CC;
-    select-bg:          #A6A6A6FF;
-    select-fg:          #476A84FF;
+    main-bg:            #0e111a;
+    main-fg:            #0870BF;
+    main-br:            #e9114f;
+    main-ex:            #114ccf;
+    select-bg:          #151B25;
+    select-fg:          #27e7bb;
     separatorcolor:     transparent;
     border-color:       transparent;
 }
