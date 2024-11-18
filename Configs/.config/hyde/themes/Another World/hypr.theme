@@ -4,7 +4,7 @@ $GTK_THEME=Kripton
 $ICON_THEME=Vivid-Glassy-Dark-Icons
 $CURSOR_THEME=ComixCursors
 $COLOR_SCHEME=prefer-dark
-#$CURSOR_SIZE=20
+$CURSOR_SIZE=20
 
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
