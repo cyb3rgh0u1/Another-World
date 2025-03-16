@@ -14,7 +14,6 @@
 ![t2](./screenshots/ss_2.png)
 ![t3](./screenshots/ss_3.png)
 ![t4](./screenshots/ss_4.png)
-![t4](./screenshots/ss_5.png)
 
 ## Installation
 
